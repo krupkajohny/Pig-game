@@ -2,7 +2,7 @@
 This game is for 2 people. Before the game begines players must choose who's player 1 and player 2.
 The goal of the game is to accumulate 50+ points => player who first accumulate 50 points is a winner.
 
-# Live version:  https://krupkajohny.github.io/pig-game/
+# Live version:  https://krupkajohny.github.io/Pig-game/
 
 ## How to play
 
